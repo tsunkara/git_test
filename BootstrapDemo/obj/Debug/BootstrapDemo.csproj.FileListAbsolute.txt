@@ -1,0 +1,9 @@
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\bin\BootstrapDemo.dll.config
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\bin\BootstrapDemo.dll
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\bin\BootstrapDemo.pdb
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\obj\Debug\BootstrapDemo.csprojResolveAssemblyReference.cache
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\obj\Debug\BootstrapDemo.csproj.CoreCompileInputs.cache
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\obj\Debug\BootstrapDemo.dll
+C:\Users\SIRI\source\repos\BootstrapDemo\BootstrapDemo\obj\Debug\BootstrapDemo.pdb
